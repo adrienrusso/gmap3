@@ -1,0 +1,18 @@
+{
+  "name": "jbdemonte/gmap3",
+  "description": "gmap3 is a plugin for jQuery which allows you to use the Google maps API easily.",
+  "type": "component",
+  "homepage": "http://gmap3.net/",
+  "license": "GPL v3",
+  "extra": {
+    "component": {
+      "scripts": [
+        "gmap3.js"
+      ],
+      "files": [
+        "gmap3.js",
+        "jquery/jquery-1.4.4.min.js"
+      ],
+    }
+  }
+}
